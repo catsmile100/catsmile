@@ -1,0 +1,22 @@
+{
+  "name": "catsmile",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.js",
+  "scripts": {
+    "test": "start index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catsmile100/catsmile.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "catsmile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catsmile100/catsmile/issues"
+  },
+  "homepage": "https://github.com/catsmile100/catsmile#readme"
+}
